@@ -1,0 +1,6 @@
+{
+  "name": "1Fi Marketplace",
+  "description": "1Fi Marketplace section within the Shop page, featuring dynamic product listings, variant configuration, interactive EMI plan selection, and instant credit checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
